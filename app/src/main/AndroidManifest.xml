@@ -24,6 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Activity.LoginActivity" />
+        <activity android:name=".Activity.Scroll_Plan_Registration" />
     </application>
 
 </manifest>
