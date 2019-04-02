@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GetCityInfo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_navigation">CityInfo App</string>
+    <string name="search_text_view">Search by - Company, Product, Service, Phone or Cell no.</string>
+
+
+    <string-array name="city">
+        <item> All city </item>
+        <item> Lakhimpur kheri </item>
+        <item> Gola </item>
+        <item> Sitapur </item>
+        <item> Lucknow </item>
+
+    </string-array>
+</resources>
